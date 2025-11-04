@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Nexus Deploy ("we", "our", or "us") operates the Fish Tank Simulator mobile application (the "App"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through the App.
+Zeki Ünal ("we", "our", or "us") operates the Fish Tank Simulator mobile application (the "App"). This Privacy Policy explains our practices regarding the collection, use, and disclosure of information through the App.
 
 **TL;DR:** We don't collect, store, or share any of your personal information. Your game data stays on your device. Period.
 
@@ -211,4 +211,4 @@ By downloading, installing, or using Fish Tank Simulator, you acknowledge that y
 
 **Privacy-first. Always.**
 
-© 2025 Nexus Deploy. All rights reserved.
+© 2025 Zeki Ünal. All rights reserved.
